@@ -1,10 +1,2 @@
-
-This is okay code
-Like it works meh
-
-
-Great new feautre
-
-Another great feature
-
-An even better feature!!!
+This code is now really well optimized
+I didn't add any features but its good!!!
